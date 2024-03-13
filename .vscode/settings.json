@@ -1,7 +1,20 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar"
-    ]
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "cSpell.language": "pt_BR,en,pt",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "cSpell.words": [
+    "Aguardando",
+    "analisar",
+    "Candidato",
+    "Fabricio",
+    "Ligar",
+    "Pretendido",
+    "Processo",
+    "proposta",
+    "resultado",
+    "salario",
+    "Seletivo"
+  ],
+  "cSpell.dictionaryDefinitions": []
 }
